@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction Using Machine Learning
+# 🚗 Car Price Prediction Using Random Forest
 This project predicts the selling price of a used car based on various features such as brand, vehicle age, kilometers driven, fuel type, transmission type, mileage, engine capacity, and number of seats.
 It uses a Random Forest Regression model and provides an interactive web interface using Gradio.
 
