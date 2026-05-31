@@ -189,16 +189,6 @@ Result Display
 
 ---
 
-## Author
-
-Pranay Deep
-
-B.Tech – Computer Science and Data Science
-
-CVR College of Engineering
-
----
-
 ## License
 
 This project is developed for educational and academic purposes.
