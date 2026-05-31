@@ -1,0 +1,4 @@
+Brand,Vehicle Age,KM Driven,Fuel Type,Transmission Type,Mileage,Engine (CC),Seats,Predicted Price,timestamp
+Audi,0,0,CNG,Automatic,0,0,0,,2026-05-31 15:10:43.323555
+Maruti,4,28321,Petrol,Manual,16.6,1197,5,"₹ 579,170.00",2026-05-31 15:14:49.913773
+Maruti,4,28321,Petrol,Manual,16.6,1197,5,"₹ 579,170.00",2026-05-31 15:14:52.255458
